@@ -1,4 +1,8 @@
 {
-  "movie": "KGF",
-  "Language": "Hindi"
+	"movieid": "",
+	"moviename": "",
+	"releasedate": "",
+	"cast": "",
+	"director": "",
+	"language": ""
 }
